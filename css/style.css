@@ -5,30 +5,35 @@
   text-align: center;
 }
 
+a {
+  text-decoration: none;
+  color: white;
+}
+
 .toptitel {
   font-weight: normal;
   font-size: 50px;
-  color: White;
+  color: white;
 }
 
 .downloadlink {
-  color: Blue;
+  color: aquamarine;
   font-size: 16px;
 }
 
 .travelguide {
-  color: White;
+  color: white;
   font-weight: 300;
   font-size: 42px;
 }
 
 .remembers {
   font-size: 21px;
-  color: Gray;
+  color: gray;
 }
 
 .comingsoon {
-  color: White;
+  color: white;
   font-weight: 300;
   font-size: 42px;
 }
