@@ -1,3 +1,39 @@
-h1 {
-  color: red;
+
+* {
+  font-family: Verdana;
+  background-color: black;
+  text-align: center;
+}
+
+.toptitel {
+  font-weight: normal;
+  font-size: 50px;
+  color: White;
+}
+
+.downloadlink {
+  color: Blue;
+  font-size: 16px;
+}
+
+.travelguide {
+  color: White;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.remembers {
+  font-size: 21px;
+  color: Gray;
+}
+
+.comingsoon {
+  color: White;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.copyright {
+  text-align: right;
+  color: grey;
 }
